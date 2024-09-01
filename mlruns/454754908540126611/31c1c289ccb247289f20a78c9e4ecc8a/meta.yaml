@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/YOGESH/ML/MLOPs/MyMLopsDemo/mlflow_dagshub_demo_yg/mlruns/454754908540126611/31c1c289ccb247289f20a78c9e4ecc8a/artifacts
+end_time: 1725194705955
+entry_point_name: ''
+experiment_id: '454754908540126611'
+lifecycle_stage: active
+run_id: 31c1c289ccb247289f20a78c9e4ecc8a
+run_name: XGBClassifier With SMOTE
+run_uuid: 31c1c289ccb247289f20a78c9e4ecc8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725194701159
+status: 3
+tags: []
+user_id: acer

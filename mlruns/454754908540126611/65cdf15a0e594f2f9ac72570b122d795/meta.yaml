@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/YOGESH/ML/MLOPs/MyMLopsDemo/mlflow_dagshub_demo_yg/mlruns/454754908540126611/65cdf15a0e594f2f9ac72570b122d795/artifacts
+end_time: 1725194696157
+entry_point_name: ''
+experiment_id: '454754908540126611'
+lifecycle_stage: active
+run_id: 65cdf15a0e594f2f9ac72570b122d795
+run_name: Random Forest
+run_uuid: 65cdf15a0e594f2f9ac72570b122d795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725194690907
+status: 3
+tags: []
+user_id: acer

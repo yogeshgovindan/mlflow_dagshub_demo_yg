@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/YOGESH/ML/MLOPs/MyMLopsDemo/mlflow_dagshub_demo_yg/mlruns/454754908540126611/79603181bc6a44b1af92bb3926a00151/artifacts
+end_time: 1725194690858
+entry_point_name: ''
+experiment_id: '454754908540126611'
+lifecycle_stage: active
+run_id: 79603181bc6a44b1af92bb3926a00151
+run_name: Logistic Regression
+run_uuid: 79603181bc6a44b1af92bb3926a00151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725194680315
+status: 3
+tags: []
+user_id: acer

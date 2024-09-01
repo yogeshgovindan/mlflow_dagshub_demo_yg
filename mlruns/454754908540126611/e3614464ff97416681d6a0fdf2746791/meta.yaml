@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/YOGESH/ML/MLOPs/MyMLopsDemo/mlflow_dagshub_demo_yg/mlruns/454754908540126611/e3614464ff97416681d6a0fdf2746791/artifacts
+end_time: 1725194701115
+entry_point_name: ''
+experiment_id: '454754908540126611'
+lifecycle_stage: active
+run_id: e3614464ff97416681d6a0fdf2746791
+run_name: XGBClassifier
+run_uuid: e3614464ff97416681d6a0fdf2746791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725194696204
+status: 3
+tags: []
+user_id: acer
